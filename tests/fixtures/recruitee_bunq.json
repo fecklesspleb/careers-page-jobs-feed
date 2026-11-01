@@ -1,0 +1,216 @@
+{
+ "offers": [
+  {
+   "id": 2800490,
+   "slug": "data-scientist-marketing-3",
+   "title": "Data Scientist Marketing",
+   "company_name": "bunq",
+   "location": "Amsterdam, Noord-Holland, Netherlands",
+   "city": "Amsterdam",
+   "country": "Netherlands",
+   "country_code": "NL",
+   "remote": false,
+   "hybrid": true,
+   "on_site": false,
+   "status": "published",
+   "published_at": "2026-10-28 13:21:58 UTC",
+   "created_at": "2026-10-28 12:08:13 UTC",
+   "updated_at": "2026-10-29 15:24:28 UTC",
+   "careers_url": "https://careers.bunq.com/o/data-scientist-marketing-3",
+   "careers_apply_url": "https://careers.bunq.com/o/data-scientist-marketing-3/c/new",
+   "employment_type_code": "fulltime_permanent",
+   "department": "Growth",
+   "salary": {
+    "max": null,
+    "min": null,
+    "period": null,
+    "currency": null
+   },
+   "locations": [
+    {
+     "id": 39979,
+     "name": "Amsterdam",
+     "state": "Noord-Holland",
+     "country": "Netherlands",
+     "city": "Amsterdam",
+     "country_code": "NL",
+     "state_code": "NH",
+     "postal_code": null,
+     "street": null,
+     "note": null
+    }
+   ]
+  },
+  {
+   "id": 2798695,
+   "slug": "support-experience-lead",
+   "title": "Support Experience Lead",
+   "company_name": "bunq",
+   "location": "Sofia, Sofia (stolitsa), Bulgaria",
+   "city": "Sofia",
+   "country": "Bulgaria",
+   "country_code": "BG",
+   "remote": false,
+   "hybrid": true,
+   "on_site": false,
+   "status": "published",
+   "published_at": "2026-10-27 12:11:34 UTC",
+   "created_at": "2026-10-27 10:32:26 UTC",
+   "updated_at": "2026-10-28 06:39:52 UTC",
+   "careers_url": "https://careers.bunq.com/o/support-experience-lead",
+   "careers_apply_url": "https://careers.bunq.com/o/support-experience-lead/c/new",
+   "employment_type_code": "fulltime_fixed_term",
+   "department": "Support & Operations",
+   "salary": {
+    "max": null,
+    "min": null,
+    "period": null,
+    "currency": null
+   },
+   "locations": [
+    {
+     "id": 39967,
+     "name": "Sofia",
+     "state": "Sofia (stolitsa)",
+     "country": "Bulgaria",
+     "city": "Sofia",
+     "country_code": "BG",
+     "state_code": "22",
+     "postal_code": null,
+     "street": null,
+     "note": null
+    },
+    {
+     "id": 39977,
+     "name": "Istanbul",
+     "state": "İstanbul",
+     "country": "Türkiye",
+     "city": "İstanbul",
+     "country_code": "TR",
+     "state_code": "34",
+     "postal_code": null,
+     "street": null,
+     "note": null
+    }
+   ]
+  },
+  {
+   "id": 2797591,
+   "slug": "collections-expert",
+   "title": "Collections Expert",
+   "company_name": "bunq",
+   "location": "Amsterdam, Noord-Holland, Netherlands",
+   "city": "Amsterdam",
+   "country": "Netherlands",
+   "country_code": "NL",
+   "remote": false,
+   "hybrid": true,
+   "on_site": false,
+   "status": "published",
+   "published_at": "2026-10-26 13:13:39 UTC",
+   "created_at": "2026-10-26 13:02:53 UTC",
+   "updated_at": "2026-10-27 09:49:57 UTC",
+   "careers_url": "https://careers.bunq.com/o/collections-expert",
+   "careers_apply_url": "https://careers.bunq.com/o/collections-expert/c/new",
+   "employment_type_code": "fulltime_permanent",
+   "department": "Support & Operations",
+   "salary": {
+    "max": null,
+    "min": null,
+    "period": null,
+    "currency": null
+   },
+   "locations": [
+    {
+     "id": 39979,
+     "name": "Amsterdam",
+     "state": "Noord-Holland",
+     "country": "Netherlands",
+     "city": "Amsterdam",
+     "country_code": "NL",
+     "state_code": "NH",
+     "postal_code": null,
+     "street": null,
+     "note": null
+    },
+    {
+     "id": 39977,
+     "name": "Istanbul",
+     "state": "İstanbul",
+     "country": "Türkiye",
+     "city": "İstanbul",
+     "country_code": "TR",
+     "state_code": "34",
+     "postal_code": null,
+     "street": null,
+     "note": null
+    },
+    {
+     "id": 39967,
+     "name": "Sofia",
+     "state": "Sofia (stolitsa)",
+     "country": "Bulgaria",
+     "city": "Sofia",
+     "country_code": "BG",
+     "state_code": "22",
+     "postal_code": null,
+     "street": null,
+     "note": null
+    }
+   ]
+  },
+  {
+   "id": 2783543,
+   "slug": "head-of-product-6",
+   "title": "Head of Product",
+   "company_name": "bunq",
+   "location": "Amsterdam, Noord-Holland, Netherlands",
+   "city": "Amsterdam",
+   "country": "Netherlands",
+   "country_code": "NL",
+   "remote": false,
+   "hybrid": true,
+   "on_site": false,
+   "status": "published",
+   "published_at": "2026-10-15 09:31:36 UTC",
+   "created_at": "2026-10-14 11:37:16 UTC",
+   "updated_at": "2026-10-29 15:59:23 UTC",
+   "careers_url": "https://careers.bunq.com/o/head-of-product-6",
+   "careers_apply_url": "https://careers.bunq.com/o/head-of-product-6/c/new",
+   "employment_type_code": "fulltime_permanent",
+   "department": "Product",
+   "salary": {
+    "max": null,
+    "min": null,
+    "period": null,
+    "currency": null
+   },
+   "locations": [
+    {
+     "id": 39979,
+     "name": "Amsterdam",
+     "state": "Noord-Holland",
+     "country": "Netherlands",
+     "city": "Amsterdam",
+     "country_code": "NL",
+     "state_code": "NH",
+     "postal_code": null,
+     "street": null,
+     "note": null
+    },
+    {
+     "id": 39967,
+     "name": "Sofia",
+     "state": "Sofia (stolitsa)",
+     "country": "Bulgaria",
+     "city": "Sofia",
+     "country_code": "BG",
+     "state_code": "22",
+     "postal_code": null,
+     "street": null,
+     "note": null
+    }
+   ]
+  }
+ ]
+}

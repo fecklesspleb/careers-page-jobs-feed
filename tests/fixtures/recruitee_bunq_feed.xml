@@ -1,0 +1,306 @@
+<?xml version='1.0' encoding='utf-8'?>
+<offers>
+
+  <offer>
+
+    <id>2800490</id>
+    <slug>data-scientist-marketing-3</slug>
+    <title>Data Scientist Marketing</title>
+
+      <location>Amsterdam, Noord-Holland, Netherlands</location>
+    <country>Netherlands</country>
+    <city>Amsterdam</city>
+    <country_code>NL</country_code>
+    <state_code>NH</state_code>
+    <postal_code />
+    <remote>false</remote>
+    <hybrid>true</hybrid>
+    <on_site>false</on_site>
+    <department>Growth</department>
+    <employment_type_code>fulltime_permanent</employment_type_code>
+    <category>banking</category>
+    <experience_code>experienced</experience_code>
+    <education_code>professional</education_code>
+    <salary>
+      <min />
+      <max />
+      <currency />
+      <period />
+    </salary>
+    <tags>
+
+      <tag>Acquisition</tag>
+
+      <tag>E2</tag>
+
+      <tag>Enablers</tag>
+
+    </tags>
+    <min_hours>40</min_hours>
+    <max_hours>40</max_hours>
+    <min_hours_per_week>40</min_hours_per_week>
+    <max_hours_per_week>40</max_hours_per_week>
+    <company_name>bunq</company_name>
+    <careers_url>https://careers.bunq.com/o/data-scientist-marketing-3</careers_url>
+    <apply_url>https://careers.bunq.com/o/data-scientist-marketing-3/c/new</apply_url>
+    <created_at>2026-10-28 12:08:13 UTC</created_at>
+    <updated_at>2026-10-29 15:24:28 UTC</updated_at>
+    <published_at>2026-10-28 13:21:58 UTC</published_at>
+    <close_at />
+    <locations>
+
+
+        <location>
+          <id>39979</id>
+          <country_code>NL</country_code>
+          <state_code>NH</state_code>
+          <country>Netherlands</country>
+          <state>Noord-Holland</state>
+          <name>Amsterdam</name>
+          <street />
+          <postal_code />
+          <city>Amsterdam</city>
+          <note />
+        </location>
+
+    </locations>
+
+  </offer>
+
+  <offer>
+
+    <id>2798695</id>
+    <slug>support-experience-lead</slug>
+    <title>Support Experience Lead</title>
+
+      <location>Sofia, Sofia (stolitsa), Bulgaria</location>
+    <country>Bulgaria</country>
+    <city>Sofia</city>
+    <country_code>BG</country_code>
+    <state_code>22</state_code>
+    <postal_code />
+    <remote>false</remote>
+    <hybrid>true</hybrid>
+    <on_site>false</on_site>
+    <department>Support &amp; Operations</department>
+    <employment_type_code>fulltime_fixed_term</employment_type_code>
+    <category>banking</category>
+    <experience_code>mid_level</experience_code>
+    <education_code>professional</education_code>
+    <salary>
+      <min />
+      <max />
+      <currency />
+      <period />
+    </salary>
+    <tags>
+
+    </tags>
+    <min_hours />
+    <max_hours />
+    <min_hours_per_week />
+    <max_hours_per_week />
+    <company_name>bunq</company_name>
+    <careers_url>https://careers.bunq.com/o/support-experience-lead</careers_url>
+    <apply_url>https://careers.bunq.com/o/support-experience-lead/c/new</apply_url>
+    <created_at>2026-10-27 10:32:26 UTC</created_at>
+    <updated_at>2026-10-28 06:39:52 UTC</updated_at>
+    <published_at>2026-10-27 12:11:34 UTC</published_at>
+    <close_at />
+    <locations>
+
+
+        <location>
+          <id>39967</id>
+          <country_code>BG</country_code>
+          <state_code>22</state_code>
+          <country>Bulgaria</country>
+          <state>Sofia (stolitsa)</state>
+          <name>Sofia</name>
+          <street />
+          <postal_code />
+          <city>Sofia</city>
+          <note />
+        </location>
+
+
+        <location>
+          <id>39977</id>
+          <country_code>TR</country_code>
+          <state_code>34</state_code>
+          <country>Türkiye</country>
+          <state>İstanbul</state>
+          <name>Istanbul</name>
+          <street />
+          <postal_code />
+          <city>İstanbul</city>
+          <note />
+        </location>
+
+    </locations>
+
+  </offer>
+
+  <offer>
+
+    <id>2797591</id>
+    <slug>collections-expert</slug>
+    <title>Collections Expert</title>
+
+      <location>Amsterdam, Noord-Holland, Netherlands</location>
+    <country>Netherlands</country>
+    <city>Amsterdam</city>
+    <country_code>NL</country_code>
+    <state_code>NH</state_code>
+    <postal_code />
+    <remote>false</remote>
+    <hybrid>true</hybrid>
+    <on_site>false</on_site>
+    <department>Support &amp; Operations</department>
+    <employment_type_code>fulltime_permanent</employment_type_code>
+    <category>banking</category>
+    <experience_code>mid_level</experience_code>
+    <education_code>bachelor_degree</education_code>
+    <salary>
+      <min />
+      <max />
+      <currency />
+      <period />
+    </salary>
+    <tags>
+
+    </tags>
+    <min_hours>40</min_hours>
+    <max_hours>40</max_hours>
+    <min_hours_per_week>40</min_hours_per_week>
+    <max_hours_per_week>40</max_hours_per_week>
+    <company_name>bunq</company_name>
+    <careers_url>https://careers.bunq.com/o/collections-expert</careers_url>
+    <apply_url>https://careers.bunq.com/o/collections-expert/c/new</apply_url>
+    <created_at>2026-10-26 13:02:53 UTC</created_at>
+    <updated_at>2026-10-27 09:49:57 UTC</updated_at>
+    <published_at>2026-10-26 13:13:39 UTC</published_at>
+    <close_at />
+    <locations>
+
+
+        <location>
+          <id>39979</id>
+          <country_code>NL</country_code>
+          <state_code>NH</state_code>
+          <country>Netherlands</country>
+          <state>Noord-Holland</state>
+          <name>Amsterdam</name>
+          <street />
+          <postal_code />
+          <city>Amsterdam</city>
+          <note />
+        </location>
+
+
+        <location>
+          <id>39977</id>
+          <country_code>TR</country_code>
+          <state_code>34</state_code>
+          <country>Türkiye</country>
+          <state>İstanbul</state>
+          <name>Istanbul</name>
+          <street />
+          <postal_code />
+          <city>İstanbul</city>
+          <note />
+        </location>
+
+
+        <location>
+          <id>39967</id>
+          <country_code>BG</country_code>
+          <state_code>22</state_code>
+          <country>Bulgaria</country>
+          <state>Sofia (stolitsa)</state>
+          <name>Sofia</name>
+          <street />
+          <postal_code />
+          <city>Sofia</city>
+          <note />
+        </location>
+
+    </locations>
+
+  </offer>
+
+  <offer>
+
+    <id>2783543</id>
+    <slug>head-of-product-6</slug>
+    <title>Head of Product</title>
+
+      <location>Amsterdam, Noord-Holland, Netherlands</location>
+    <country>Netherlands</country>
+    <city>Amsterdam</city>
+    <country_code>NL</country_code>
+    <state_code>NH</state_code>
+    <postal_code />
+    <remote>false</remote>
+    <hybrid>true</hybrid>
+    <on_site>false</on_site>
+    <department>Product</department>
+    <employment_type_code>fulltime_permanent</employment_type_code>
+    <category>banking</category>
+    <experience_code>manager</experience_code>
+    <education_code>bachelor_degree</education_code>
+    <salary>
+      <min />
+      <max />
+      <currency />
+      <period />
+    </salary>
+    <tags>
+
+    </tags>
+    <min_hours>40</min_hours>
+    <max_hours>40</max_hours>
+    <min_hours_per_week>40</min_hours_per_week>
+    <max_hours_per_week>40</max_hours_per_week>
+    <company_name>bunq</company_name>
+    <careers_url>https://careers.bunq.com/o/head-of-product-6</careers_url>
+    <apply_url>https://careers.bunq.com/o/head-of-product-6/c/new</apply_url>
+    <created_at>2026-10-14 11:37:16 UTC</created_at>
+    <updated_at>2026-10-29 15:59:23 UTC</updated_at>
+    <published_at>2026-10-15 09:31:36 UTC</published_at>
+    <close_at />
+    <locations>
+
+
+        <location>
+          <id>39979</id>
+          <country_code>NL</country_code>
+          <state_code>NH</state_code>
+          <country>Netherlands</country>
+          <state>Noord-Holland</state>
+          <name>Amsterdam</name>
+          <street />
+          <postal_code />
+          <city>Amsterdam</city>
+          <note />
+        </location>
+
+
+        <location>
+          <id>39967</id>
+          <country_code>BG</country_code>
+          <state_code>22</state_code>
+          <country>Bulgaria</country>
+          <state>Sofia (stolitsa)</state>
+          <name>Sofia</name>
+          <street />
+          <postal_code />
+          <city>Sofia</city>
+          <note />
+        </location>
+
+    </locations>
+
+  </offer>
+
+  </offers>

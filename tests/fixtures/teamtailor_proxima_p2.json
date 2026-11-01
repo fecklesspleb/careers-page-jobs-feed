@@ -1,0 +1,814 @@
+{
+ "version": "https://jsonfeed.org/version/1.1",
+ "title": "Proxima",
+ "home_page_url": "https://proxima.teamtailor.com/jobs",
+ "feed_url": "https://proxima.teamtailor.com/jobs.json",
+ "next_url": "https://proxima.teamtailor.com/jobs.json?page=3&per_page=15",
+ "items": [
+  {
+   "id": "4fe97e9c-65f2-46c1-af64-f9a2e68e9a35",
+   "title": "Senior Consultant - Technology Procurement",
+   "url": "https://proxima.teamtailor.com/jobs/8174371-senior-consultant-technology-procurement",
+   "date_published": "2026-08-05T13:07:53+01:00",
+   "_jobposting": {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Senior Consultant - Technology Procurement",
+    "description": "(description removed from fixture)",
+    "identifier": {
+     "@type": "PropertyValue",
+     "name": "Proxima",
+     "value": "8174371"
+    },
+    "datePosted": "2026-08-05T13:07:53+01:00",
+    "employmentType": "FULL_TIME",
+    "directApply": true,
+    "hiringOrganization": {
+     "@type": "Organization",
+     "name": "Proxima",
+     "sameAs": "https://proxima.teamtailor.com",
+     "logo": "https://images.teamtailor-cdn.com/images/s3/teamtailor-production/logotype-v3/image_uploads/927fc426-f336-490b-9a52-b450ad6185b7/original.png"
+    },
+    "jobLocation": [
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "Kaistraße 5",
+       "addressLocality": "Düsseldorf",
+       "postalCode": "40221",
+       "addressCountry": "DE",
+       "addressRegion": "Germany",
+       "@type": "PostalAddress"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "00bfdcfe-b316-499a-9185-7f9bf5434a77",
+   "title": "Vice President - Technology Procurement",
+   "url": "https://proxima.teamtailor.com/jobs/8168820-vice-president-technology-procurement",
+   "date_published": "2026-08-04T13:35:15+01:00",
+   "_jobposting": {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Vice President - Technology Procurement",
+    "description": "(description removed from fixture)",
+    "identifier": {
+     "@type": "PropertyValue",
+     "name": "Proxima",
+     "value": "8168820"
+    },
+    "datePosted": "2026-08-04T13:35:15+01:00",
+    "employmentType": "FULL_TIME",
+    "directApply": true,
+    "hiringOrganization": {
+     "@type": "Organization",
+     "name": "Proxima",
+     "sameAs": "https://proxima.teamtailor.com",
+     "logo": "https://images.teamtailor-cdn.com/images/s3/teamtailor-production/logotype-v3/image_uploads/927fc426-f336-490b-9a52-b450ad6185b7/original.png"
+    },
+    "jobLocation": [
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "200 E Randolph St",
+       "addressLocality": "Chicago",
+       "postalCode": "60601-6400",
+       "addressCountry": "US",
+       "addressRegion": "United States",
+       "@type": "PostalAddress"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "3832e90f-6f41-460d-a8c9-bf5e86f01cde",
+   "title": "Principal Consultant - Technology Procurement",
+   "url": "https://proxima.teamtailor.com/jobs/8168783-principal-consultant-technology-procurement",
+   "date_published": "2026-08-04T13:31:38+01:00",
+   "_jobposting": {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Principal Consultant - Technology Procurement",
+    "description": "(description removed from fixture)",
+    "identifier": {
+     "@type": "PropertyValue",
+     "name": "Proxima",
+     "value": "8168783"
+    },
+    "datePosted": "2026-08-04T13:31:38+01:00",
+    "employmentType": "FULL_TIME",
+    "directApply": true,
+    "hiringOrganization": {
+     "@type": "Organization",
+     "name": "Proxima",
+     "sameAs": "https://proxima.teamtailor.com",
+     "logo": "https://images.teamtailor-cdn.com/images/s3/teamtailor-production/logotype-v3/image_uploads/927fc426-f336-490b-9a52-b450ad6185b7/original.png"
+    },
+    "jobLocation": [
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "200 E Randolph St",
+       "addressLocality": "Chicago",
+       "postalCode": "60601-6400",
+       "addressCountry": "US",
+       "addressRegion": "United States",
+       "@type": "PostalAddress"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "e44e00ad-d24e-4c37-8634-48edff7a7f0b",
+   "title": "Talent Pool – Facilities Management",
+   "url": "https://proxima.teamtailor.com/jobs/8168122-talent-pool-facilities-management",
+   "date_published": "2026-08-04T12:19:38+01:00",
+   "_jobposting": {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Talent Pool – Facilities Management",
+    "description": "(description removed from fixture)",
+    "identifier": {
+     "@type": "PropertyValue",
+     "name": "Proxima",
+     "value": "8168122"
+    },
+    "datePosted": "2026-08-04T12:19:38+01:00",
+    "employmentType": "FULL_TIME",
+    "directApply": true,
+    "hiringOrganization": {
+     "@type": "Organization",
+     "name": "Proxima",
+     "sameAs": "https://proxima.teamtailor.com",
+     "logo": "https://images.teamtailor-cdn.com/images/s3/teamtailor-production/logotype-v3/image_uploads/927fc426-f336-490b-9a52-b450ad6185b7/original.png"
+    },
+    "jobLocation": [
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "200 E Randolph St",
+       "addressLocality": "Chicago",
+       "postalCode": "60601-6400",
+       "addressCountry": "US",
+       "addressRegion": "United States",
+       "@type": "PostalAddress"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "d9b328ca-eee0-4e7e-b886-ee3ab4ac0993",
+   "title": "Talent Pool - Senior Consultant - Industrial & Manufacturing Directs",
+   "url": "https://proxima.teamtailor.com/jobs/8168053-talent-pool-senior-consultant-industrial-manufacturing-directs",
+   "date_published": "2026-08-04T12:09:19+01:00",
+   "_jobposting": {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Talent Pool - Senior Consultant - Industrial & Manufacturing Directs",
+    "description": "(description removed from fixture)",
+    "identifier": {
+     "@type": "PropertyValue",
+     "name": "Proxima",
+     "value": "8168053"
+    },
+    "datePosted": "2026-08-04T12:09:19+01:00",
+    "employmentType": "FULL_TIME",
+    "directApply": true,
+    "hiringOrganization": {
+     "@type": "Organization",
+     "name": "Proxima",
+     "sameAs": "https://proxima.teamtailor.com",
+     "logo": "https://images.teamtailor-cdn.com/images/s3/teamtailor-production/logotype-v3/image_uploads/927fc426-f336-490b-9a52-b450ad6185b7/original.png"
+    },
+    "jobLocation": [
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "200 E Randolph St",
+       "addressLocality": "Chicago",
+       "postalCode": "60601-6400",
+       "addressCountry": "US",
+       "addressRegion": "United States",
+       "@type": "PostalAddress"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "ee40489d-c9b0-414c-a79b-bac6ca472c83",
+   "title": "Talent Pool - Senior Consultant - Specialty Chemicals",
+   "url": "https://proxima.teamtailor.com/jobs/8168038-talent-pool-senior-consultant-specialty-chemicals",
+   "date_published": "2026-08-04T12:06:49+01:00",
+   "_jobposting": {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Talent Pool - Senior Consultant - Specialty Chemicals",
+    "description": "(description removed from fixture)",
+    "identifier": {
+     "@type": "PropertyValue",
+     "name": "Proxima",
+     "value": "8168038"
+    },
+    "datePosted": "2026-08-04T12:06:49+01:00",
+    "employmentType": "FULL_TIME",
+    "directApply": true,
+    "hiringOrganization": {
+     "@type": "Organization",
+     "name": "Proxima",
+     "sameAs": "https://proxima.teamtailor.com",
+     "logo": "https://images.teamtailor-cdn.com/images/s3/teamtailor-production/logotype-v3/image_uploads/927fc426-f336-490b-9a52-b450ad6185b7/original.png"
+    },
+    "jobLocation": [
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "200 E Randolph St",
+       "addressLocality": "Chicago",
+       "postalCode": "60601-6400",
+       "addressCountry": "US",
+       "addressRegion": "United States",
+       "@type": "PostalAddress"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "44d29dcd-d509-426a-802d-6ba583bf8c95",
+   "title": "Talent Pool - Senior Consultant - Utilities & Fuel",
+   "url": "https://proxima.teamtailor.com/jobs/8168012-talent-pool-senior-consultant-utilities-fuel",
+   "date_published": "2026-08-04T12:03:19+01:00",
+   "_jobposting": {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Talent Pool - Senior Consultant - Utilities & Fuel",
+    "description": "(description removed from fixture)",
+    "identifier": {
+     "@type": "PropertyValue",
+     "name": "Proxima",
+     "value": "8168012"
+    },
+    "datePosted": "2026-08-04T12:03:19+01:00",
+    "employmentType": "FULL_TIME",
+    "directApply": true,
+    "hiringOrganization": {
+     "@type": "Organization",
+     "name": "Proxima",
+     "sameAs": "https://proxima.teamtailor.com",
+     "logo": "https://images.teamtailor-cdn.com/images/s3/teamtailor-production/logotype-v3/image_uploads/927fc426-f336-490b-9a52-b450ad6185b7/original.png"
+    },
+    "jobLocation": [
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "200 E Randolph St",
+       "addressLocality": "Chicago",
+       "postalCode": "60601-6400",
+       "addressCountry": "US",
+       "addressRegion": "United States",
+       "@type": "PostalAddress"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "add630ee-fe2c-4915-afc6-362bd04e94da",
+   "title": "Talent Pool - Senior Consultant - Maintenance, Repair, Operations",
+   "url": "https://proxima.teamtailor.com/jobs/8167978-talent-pool-senior-consultant-maintenance-repair-operations",
+   "date_published": "2026-08-04T11:59:56+01:00",
+   "_jobposting": {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Talent Pool - Senior Consultant - Maintenance, Repair, Operations",
+    "description": "(description removed from fixture)",
+    "identifier": {
+     "@type": "PropertyValue",
+     "name": "Proxima",
+     "value": "8167978"
+    },
+    "datePosted": "2026-08-04T11:59:56+01:00",
+    "employmentType": "FULL_TIME",
+    "directApply": true,
+    "hiringOrganization": {
+     "@type": "Organization",
+     "name": "Proxima",
+     "sameAs": "https://proxima.teamtailor.com",
+     "logo": "https://images.teamtailor-cdn.com/images/s3/teamtailor-production/logotype-v3/image_uploads/927fc426-f336-490b-9a52-b450ad6185b7/original.png"
+    },
+    "jobLocation": [
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "200 E Randolph St",
+       "addressLocality": "Chicago",
+       "postalCode": "60601-6400",
+       "addressCountry": "US",
+       "addressRegion": "United States",
+       "@type": "PostalAddress"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "3ef44356-8755-4170-ba4b-161bbcc6aa99",
+   "title": "Senior Consultant - Technology Procurement",
+   "url": "https://proxima.teamtailor.com/jobs/8167825-senior-consultant-technology-procurement",
+   "date_published": "2026-08-04T11:42:49+01:00",
+   "_jobposting": {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Senior Consultant - Technology Procurement",
+    "description": "(description removed from fixture)",
+    "identifier": {
+     "@type": "PropertyValue",
+     "name": "Proxima",
+     "value": "8167825"
+    },
+    "datePosted": "2026-08-04T11:42:49+01:00",
+    "employmentType": "FULL_TIME",
+    "directApply": true,
+    "hiringOrganization": {
+     "@type": "Organization",
+     "name": "Proxima",
+     "sameAs": "https://proxima.teamtailor.com",
+     "logo": "https://images.teamtailor-cdn.com/images/s3/teamtailor-production/logotype-v3/image_uploads/927fc426-f336-490b-9a52-b450ad6185b7/original.png"
+    },
+    "jobLocation": [
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "North Tower, Suite 2, Level 43, 80 Collins St",
+       "addressLocality": "Melbourne",
+       "postalCode": "3000",
+       "addressCountry": "AU",
+       "addressRegion": "Australia",
+       "@type": "PostalAddress"
+      }
+     },
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "Level 16, 175 Pitt St",
+       "addressLocality": "Sydney",
+       "postalCode": "2000",
+       "addressCountry": "AU",
+       "addressRegion": "Australia",
+       "@type": "PostalAddress"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "c6e50147-6666-439f-9cb6-313609954409",
+   "title": "Principal Consultant - Technology Procurement",
+   "url": "https://proxima.teamtailor.com/jobs/8167800-principal-consultant-technology-procurement",
+   "date_published": "2026-08-04T11:39:07+01:00",
+   "_jobposting": {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Principal Consultant - Technology Procurement",
+    "description": "(description removed from fixture)",
+    "identifier": {
+     "@type": "PropertyValue",
+     "name": "Proxima",
+     "value": "8167800"
+    },
+    "datePosted": "2026-08-04T11:39:07+01:00",
+    "employmentType": "FULL_TIME",
+    "directApply": true,
+    "hiringOrganization": {
+     "@type": "Organization",
+     "name": "Proxima",
+     "sameAs": "https://proxima.teamtailor.com",
+     "logo": "https://images.teamtailor-cdn.com/images/s3/teamtailor-production/logotype-v3/image_uploads/927fc426-f336-490b-9a52-b450ad6185b7/original.png"
+    },
+    "jobLocation": [
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "8 Queen's Rd E",
+       "addressLocality": "Wan Chai",
+       "postalCode": null,
+       "addressCountry": "HK",
+       "addressRegion": "Asia",
+       "@type": "PostalAddress"
+      }
+     },
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "Federal Territory of Kuala Lumpur",
+       "addressLocality": "Kuala Lumpur",
+       "postalCode": null,
+       "addressCountry": "MY",
+       "addressRegion": "Asia",
+       "@type": "PostalAddress"
+      }
+     },
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "North Tower, Suite 2, Level 43, 80 Collins St",
+       "addressLocality": "Melbourne",
+       "postalCode": "3000",
+       "addressCountry": "AU",
+       "addressRegion": "Australia",
+       "@type": "PostalAddress"
+      }
+     },
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "Republic Plaza",
+       "addressLocality": "Singapore",
+       "postalCode": "048619",
+       "addressCountry": "SG",
+       "addressRegion": "Singapore",
+       "@type": "PostalAddress"
+      }
+     },
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "Level 16, 175 Pitt St",
+       "addressLocality": "Sydney",
+       "postalCode": "2000",
+       "addressCountry": "AU",
+       "addressRegion": "Australia",
+       "@type": "PostalAddress"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "ef6b5659-bb43-4139-8185-e68444fe18b9",
+   "title": "Senior Consultant - Professional Services",
+   "url": "https://proxima.teamtailor.com/jobs/8167743-senior-consultant-professional-services",
+   "date_published": "2026-08-04T11:32:36+01:00",
+   "_jobposting": {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Senior Consultant - Professional Services",
+    "description": "(description removed from fixture)",
+    "identifier": {
+     "@type": "PropertyValue",
+     "name": "Proxima",
+     "value": "8167743"
+    },
+    "datePosted": "2026-08-04T11:32:36+01:00",
+    "employmentType": "FULL_TIME",
+    "directApply": true,
+    "hiringOrganization": {
+     "@type": "Organization",
+     "name": "Proxima",
+     "sameAs": "https://proxima.teamtailor.com",
+     "logo": "https://images.teamtailor-cdn.com/images/s3/teamtailor-production/logotype-v3/image_uploads/927fc426-f336-490b-9a52-b450ad6185b7/original.png"
+    },
+    "jobLocation": [
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "8 Queen's Rd E",
+       "addressLocality": "Wan Chai",
+       "postalCode": null,
+       "addressCountry": "HK",
+       "addressRegion": "Asia",
+       "@type": "PostalAddress"
+      }
+     },
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "Federal Territory of Kuala Lumpur",
+       "addressLocality": "Kuala Lumpur",
+       "postalCode": null,
+       "addressCountry": "MY",
+       "addressRegion": "Asia",
+       "@type": "PostalAddress"
+      }
+     },
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "North Tower, Suite 2, Level 43, 80 Collins St",
+       "addressLocality": "Melbourne",
+       "postalCode": "3000",
+       "addressCountry": "AU",
+       "addressRegion": "Australia",
+       "@type": "PostalAddress"
+      }
+     },
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "Republic Plaza",
+       "addressLocality": "Singapore",
+       "postalCode": "048619",
+       "addressCountry": "SG",
+       "addressRegion": "Singapore",
+       "@type": "PostalAddress"
+      }
+     },
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "Level 16, 175 Pitt St",
+       "addressLocality": "Sydney",
+       "postalCode": "2000",
+       "addressCountry": "AU",
+       "addressRegion": "Australia",
+       "@type": "PostalAddress"
+      }
+     },
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "310 Edward St",
+       "addressLocality": "Brisbane City",
+       "postalCode": "4000",
+       "addressCountry": "AU",
+       "addressRegion": "Australia",
+       "@type": "PostalAddress"
+      }
+     },
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "Level 13, 37 St Georges Terrace",
+       "addressLocality": "Perth",
+       "postalCode": "6000",
+       "addressCountry": "AU",
+       "addressRegion": "Australia",
+       "@type": "PostalAddress"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "5302aef3-8abf-4037-b1ea-85053e1e8b6d",
+   "title": "Consultant - Logistics & Fleet",
+   "url": "https://proxima.teamtailor.com/jobs/8167693-consultant-logistics-fleet",
+   "date_published": "2026-08-04T11:24:59+01:00",
+   "_jobposting": {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Consultant - Logistics & Fleet",
+    "description": "(description removed from fixture)",
+    "identifier": {
+     "@type": "PropertyValue",
+     "name": "Proxima",
+     "value": "8167693"
+    },
+    "datePosted": "2026-08-04T11:24:59+01:00",
+    "employmentType": "FULL_TIME",
+    "directApply": true,
+    "hiringOrganization": {
+     "@type": "Organization",
+     "name": "Proxima",
+     "sameAs": "https://proxima.teamtailor.com",
+     "logo": "https://images.teamtailor-cdn.com/images/s3/teamtailor-production/logotype-v3/image_uploads/927fc426-f336-490b-9a52-b450ad6185b7/original.png"
+    },
+    "jobLocation": [
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "North Tower, Suite 2, Level 43, 80 Collins St",
+       "addressLocality": "Melbourne",
+       "postalCode": "3000",
+       "addressCountry": "AU",
+       "addressRegion": "Australia",
+       "@type": "PostalAddress"
+      }
+     },
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "Level 16, 175 Pitt St",
+       "addressLocality": "Sydney",
+       "postalCode": "2000",
+       "addressCountry": "AU",
+       "addressRegion": "Australia",
+       "@type": "PostalAddress"
+      }
+     },
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "310 Edward St",
+       "addressLocality": "Brisbane City",
+       "postalCode": "4000",
+       "addressCountry": "AU",
+       "addressRegion": "Australia",
+       "@type": "PostalAddress"
+      }
+     },
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "Level 13, 37 St Georges Terrace",
+       "addressLocality": "Perth",
+       "postalCode": "6000",
+       "addressCountry": "AU",
+       "addressRegion": "Australia",
+       "@type": "PostalAddress"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "2b279834-b41c-4ce4-894c-29701d18e05c",
+   "title": "Senior Consultant - Facilities Management",
+   "url": "https://proxima.teamtailor.com/jobs/8166549-senior-consultant-facilities-management",
+   "date_published": "2026-08-04T09:12:22+01:00",
+   "_jobposting": {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Senior Consultant - Facilities Management",
+    "description": "(description removed from fixture)",
+    "identifier": {
+     "@type": "PropertyValue",
+     "name": "Proxima",
+     "value": "8166549"
+    },
+    "datePosted": "2026-08-04T09:12:22+01:00",
+    "employmentType": "FULL_TIME",
+    "directApply": true,
+    "hiringOrganization": {
+     "@type": "Organization",
+     "name": "Proxima",
+     "sameAs": "https://proxima.teamtailor.com",
+     "logo": "https://images.teamtailor-cdn.com/images/s3/teamtailor-production/logotype-v3/image_uploads/927fc426-f336-490b-9a52-b450ad6185b7/original.png"
+    },
+    "jobLocation": [
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "1 Kingsway",
+       "addressLocality": "Cardiff",
+       "postalCode": "CF10 3AN",
+       "addressCountry": "GB",
+       "addressRegion": "United Kingdom",
+       "@type": "PostalAddress"
+      }
+     },
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "21-23 Wellington St",
+       "addressLocality": "Leeds",
+       "postalCode": "LS1 4DL",
+       "addressCountry": "GB",
+       "addressRegion": "United Kingdom",
+       "@type": "PostalAddress"
+      }
+     },
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "107 Cheapside",
+       "addressLocality": "London",
+       "postalCode": "EC2V 6DN",
+       "addressCountry": "GB",
+       "addressRegion": "United Kingdom",
+       "@type": "PostalAddress"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "f952c177-598a-43b3-bf17-cf620ec0216a",
+   "title": "Senior Consultant - Directs",
+   "url": "https://proxima.teamtailor.com/jobs/8164367-senior-consultant-directs",
+   "date_published": "2026-08-03T17:19:04+01:00",
+   "_jobposting": {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Senior Consultant - Directs",
+    "description": "(description removed from fixture)",
+    "identifier": {
+     "@type": "PropertyValue",
+     "name": "Proxima",
+     "value": "8164367"
+    },
+    "datePosted": "2026-08-03T17:19:04+01:00",
+    "employmentType": "FULL_TIME",
+    "directApply": true,
+    "hiringOrganization": {
+     "@type": "Organization",
+     "name": "Proxima",
+     "sameAs": "https://proxima.teamtailor.com",
+     "logo": "https://images.teamtailor-cdn.com/images/s3/teamtailor-production/logotype-v3/image_uploads/927fc426-f336-490b-9a52-b450ad6185b7/original.png"
+    },
+    "jobLocation": [
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "1 Kingsway",
+       "addressLocality": "Cardiff",
+       "postalCode": "CF10 3AN",
+       "addressCountry": "GB",
+       "addressRegion": "United Kingdom",
+       "@type": "PostalAddress"
+      }
+     },
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "21-23 Wellington St",
+       "addressLocality": "Leeds",
+       "postalCode": "LS1 4DL",
+       "addressCountry": "GB",
+       "addressRegion": "United Kingdom",
+       "@type": "PostalAddress"
+      }
+     },
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "107 Cheapside",
+       "addressLocality": "London",
+       "postalCode": "EC2V 6DN",
+       "addressCountry": "GB",
+       "addressRegion": "United Kingdom",
+       "@type": "PostalAddress"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "c9452e6e-eaf1-4478-99a3-7b3a7c6c6c37",
+   "title": "Senior Consultant - Generalist",
+   "url": "https://proxima.teamtailor.com/jobs/8163943-senior-consultant-generalist",
+   "date_published": "2026-08-03T16:57:28+01:00",
+   "_jobposting": {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Senior Consultant - Generalist",
+    "description": "(description removed from fixture)",
+    "identifier": {
+     "@type": "PropertyValue",
+     "name": "Proxima",
+     "value": "8163943"
+    },
+    "datePosted": "2026-08-03T16:57:28+01:00",
+    "employmentType": "FULL_TIME",
+    "directApply": true,
+    "hiringOrganization": {
+     "@type": "Organization",
+     "name": "Proxima",
+     "sameAs": "https://proxima.teamtailor.com",
+     "logo": "https://images.teamtailor-cdn.com/images/s3/teamtailor-production/logotype-v3/image_uploads/927fc426-f336-490b-9a52-b450ad6185b7/original.png"
+    },
+    "jobLocation": [
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "1 Kingsway",
+       "addressLocality": "Cardiff",
+       "postalCode": "CF10 3AN",
+       "addressCountry": "GB",
+       "addressRegion": "United Kingdom",
+       "@type": "PostalAddress"
+      }
+     },
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "21-23 Wellington St",
+       "addressLocality": "Leeds",
+       "postalCode": "LS1 4DL",
+       "addressCountry": "GB",
+       "addressRegion": "United Kingdom",
+       "@type": "PostalAddress"
+      }
+     },
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "107 Cheapside",
+       "addressLocality": "London",
+       "postalCode": "EC2V 6DN",
+       "addressCountry": "GB",
+       "addressRegion": "United Kingdom",
+       "@type": "PostalAddress"
+      }
+     }
+    ]
+   }
+  }
+ ]
+}

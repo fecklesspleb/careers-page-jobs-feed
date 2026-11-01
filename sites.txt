@@ -1,0 +1,9 @@
+# One board per line: a board URL copied from the browser, or ats:name.
+# Supported: Workable, Recruitee, Teamtailor. For a Teamtailor career site on the company's own
+# domain, write teamtailor:<host>, for example teamtailor:jobs.tibber.com.
+https://apply.workable.com/huggingface/
+https://apply.workable.com/blueground/
+https://bunq.recruitee.com
+recruitee:jobs              # Tellent, the company behind Recruitee (careers.tellent.com)
+https://proxima.teamtailor.com
+teamtailor:career           # Teamtailor's own career site

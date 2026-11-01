@@ -1,0 +1,52 @@
+name: Careers page jobs feed
+
+on:
+  schedule:
+    - cron: "17 11 * * *"   # every day at 11:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: careers-page-jobs-feed
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run offline tests
+        run: python -m unittest -v
+
+      - name: Fetch new jobs
+        env:
+          # Optional repository variable: comma-separated title keywords, e.g. "engineer, data"
+          KEYWORDS: ${{ vars.KEYWORDS }}
+        run: |
+          args=()
+          IFS=',' read -ra kws <<< "${KEYWORDS}"
+          for k in "${kws[@]}"; do
+            k="$(echo "$k" | xargs)"
+            if [ -n "$k" ]; then args+=(--keyword "$k"); fi
+          done
+          python careers_feed.py "${args[@]}"
+
+      - name: Commit the CSVs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/jobs.csv data/new_jobs.csv
+          if git diff --cached --quiet; then
+            echo "No change"
+          else
+            git commit -m "New careers-page jobs $(date -u +%Y-%m-%d)"
+            git push
+          fi

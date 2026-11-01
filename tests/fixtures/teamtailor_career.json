@@ -1,0 +1,710 @@
+{
+ "version": "https://jsonfeed.org/version/1.1",
+ "title": "Teamtailor",
+ "home_page_url": "https://career.teamtailor.com/jobs",
+ "feed_url": "https://career.teamtailor.com/jobs.json",
+ "items": [
+  {
+   "id": "5c189e36-797b-4e58-8540-defb85b3668a",
+   "title": "Solution Architect (Bilingual French/English)",
+   "url": "https://career.teamtailor.com/jobs/8636263-solution-architect-bilingual-french-english",
+   "date_published": "2026-10-29T13:25:57+01:00",
+   "_jobposting": {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Solution Architect (Bilingual French/English)",
+    "description": "(description removed from fixture)",
+    "identifier": {
+     "@type": "PropertyValue",
+     "name": "Teamtailor",
+     "value": "8636263"
+    },
+    "datePosted": "2026-10-29T13:25:57+01:00",
+    "employmentType": "FULL_TIME",
+    "directApply": true,
+    "hiringOrganization": {
+     "@type": "Organization",
+     "name": "Teamtailor",
+     "sameAs": "https://career.teamtailor.com",
+     "logo": "https://images.teamtailor-cdn.com/images/s3/teamtailor-production/logotype-v3/image_uploads/c8c3f7c9-5cf9-4ef6-9554-652e97576f47/original.svg"
+    },
+    "jobLocation": [
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "Östgötagatan 16",
+       "addressLocality": "Stockholm",
+       "postalCode": "116 21",
+       "addressCountry": "SE",
+       "addressRegion": "Sweden",
+       "@type": "PostalAddress"
+      }
+     },
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "33 Rue La Fayette",
+       "addressLocality": "Paris",
+       "postalCode": "75009",
+       "addressCountry": "FR",
+       "addressRegion": "Europe",
+       "@type": "PostalAddress"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "90fcca34-e34d-4488-b81d-030cbbf256e4",
+   "title": "Head of Marketing - North America",
+   "url": "https://career.teamtailor.com/jobs/8633011-head-of-marketing-north-america",
+   "date_published": "2026-10-28T22:13:17+01:00",
+   "_jobposting": {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Head of Marketing - North America",
+    "description": "(description removed from fixture)",
+    "identifier": {
+     "@type": "PropertyValue",
+     "name": "Teamtailor",
+     "value": "8633011"
+    },
+    "datePosted": "2026-10-28T22:13:17+01:00",
+    "employmentType": "FULL_TIME",
+    "directApply": true,
+    "hiringOrganization": {
+     "@type": "Organization",
+     "name": "Teamtailor",
+     "sameAs": "https://career.teamtailor.com",
+     "logo": "https://images.teamtailor-cdn.com/images/s3/teamtailor-production/logotype-v3/image_uploads/c8c3f7c9-5cf9-4ef6-9554-652e97576f47/original.svg"
+    },
+    "jobLocation": [
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "125 S Clark St",
+       "addressLocality": "Chicago",
+       "postalCode": "60603",
+       "addressCountry": "US",
+       "addressRegion": "North America",
+       "@type": "PostalAddress"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "90555eb4-c67c-488b-978d-3efc4c53d2e2",
+   "title": "Strategic Partnerships Manager - Chicago",
+   "url": "https://career.teamtailor.com/jobs/8632755-strategic-partnerships-manager-chicago",
+   "date_published": "2026-10-28T18:26:40+01:00",
+   "_jobposting": {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Strategic Partnerships Manager - Chicago",
+    "description": "(description removed from fixture)",
+    "identifier": {
+     "@type": "PropertyValue",
+     "name": "Teamtailor",
+     "value": "8632755"
+    },
+    "datePosted": "2026-10-28T18:26:40+01:00",
+    "employmentType": "FULL_TIME",
+    "directApply": true,
+    "hiringOrganization": {
+     "@type": "Organization",
+     "name": "Teamtailor",
+     "sameAs": "https://career.teamtailor.com",
+     "logo": "https://images.teamtailor-cdn.com/images/s3/teamtailor-production/logotype-v3/image_uploads/c8c3f7c9-5cf9-4ef6-9554-652e97576f47/original.svg"
+    },
+    "jobLocation": [
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "125 S Clark St",
+       "addressLocality": "Chicago",
+       "postalCode": "60603",
+       "addressCountry": "US",
+       "addressRegion": "North America",
+       "@type": "PostalAddress"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "10331f7b-0619-462d-a571-d84b19e6da45",
+   "title": "Account Executive - Bogota",
+   "url": "https://career.teamtailor.com/jobs/8626868-account-executive-bogota",
+   "date_published": "2026-10-27T19:09:21+01:00",
+   "_jobposting": {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Account Executive - Bogota",
+    "description": "(description removed from fixture)",
+    "identifier": {
+     "@type": "PropertyValue",
+     "name": "Teamtailor",
+     "value": "8626868"
+    },
+    "datePosted": "2026-10-27T19:09:21+01:00",
+    "employmentType": "FULL_TIME",
+    "directApply": true,
+    "hiringOrganization": {
+     "@type": "Organization",
+     "name": "Teamtailor",
+     "sameAs": "https://career.teamtailor.com",
+     "logo": "https://images.teamtailor-cdn.com/images/s3/teamtailor-production/logotype-v3/image_uploads/c8c3f7c9-5cf9-4ef6-9554-652e97576f47/original.svg"
+    },
+    "jobLocation": [
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "WeWork Espacio de Oficinas & Coworking",
+       "addressLocality": "Bogotá",
+       "postalCode": "110221",
+       "addressCountry": "CO",
+       "addressRegion": "Latam",
+       "@type": "PostalAddress"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "d093f095-043c-4d36-8f7b-13de98b3eab0",
+   "title": "Senior Revenue Systems Administrator",
+   "url": "https://career.teamtailor.com/jobs/8546174-senior-revenue-systems-administrator",
+   "date_published": "2026-10-14T14:53:31+02:00",
+   "_jobposting": {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Senior Revenue Systems Administrator",
+    "description": "(description removed from fixture)",
+    "identifier": {
+     "@type": "PropertyValue",
+     "name": "Teamtailor",
+     "value": "8546174"
+    },
+    "datePosted": "2026-10-14T14:53:31+02:00",
+    "employmentType": "FULL_TIME",
+    "directApply": true,
+    "hiringOrganization": {
+     "@type": "Organization",
+     "name": "Teamtailor",
+     "sameAs": "https://career.teamtailor.com",
+     "logo": "https://images.teamtailor-cdn.com/images/s3/teamtailor-production/logotype-v3/image_uploads/c8c3f7c9-5cf9-4ef6-9554-652e97576f47/original.svg"
+    },
+    "jobLocation": [
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "Östgötagatan 16",
+       "addressLocality": "Stockholm",
+       "postalCode": "116 21",
+       "addressCountry": "SE",
+       "addressRegion": "Sweden",
+       "@type": "PostalAddress"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "5f14f689-77ee-4b85-a1f1-05df74ea2944",
+   "title": "Revenue Systems Engineer",
+   "url": "https://career.teamtailor.com/jobs/8546033-revenue-systems-engineer",
+   "date_published": "2026-10-14T14:33:33+02:00",
+   "_jobposting": {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Revenue Systems Engineer",
+    "description": "(description removed from fixture)",
+    "identifier": {
+     "@type": "PropertyValue",
+     "name": "Teamtailor",
+     "value": "8546033"
+    },
+    "datePosted": "2026-10-14T14:33:33+02:00",
+    "employmentType": "FULL_TIME",
+    "directApply": true,
+    "hiringOrganization": {
+     "@type": "Organization",
+     "name": "Teamtailor",
+     "sameAs": "https://career.teamtailor.com",
+     "logo": "https://images.teamtailor-cdn.com/images/s3/teamtailor-production/logotype-v3/image_uploads/c8c3f7c9-5cf9-4ef6-9554-652e97576f47/original.svg"
+    },
+    "jobLocation": [
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "Östgötagatan 16",
+       "addressLocality": "Stockholm",
+       "postalCode": "116 21",
+       "addressCountry": "SE",
+       "addressRegion": "Sweden",
+       "@type": "PostalAddress"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "8fda6a4f-938d-4b06-816a-52847879000d",
+   "title": "Revenue Systems Product Manager",
+   "url": "https://career.teamtailor.com/jobs/8545759-revenue-systems-product-manager",
+   "date_published": "2026-10-14T14:01:49+02:00",
+   "_jobposting": {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Revenue Systems Product Manager",
+    "description": "(description removed from fixture)",
+    "identifier": {
+     "@type": "PropertyValue",
+     "name": "Teamtailor",
+     "value": "8545759"
+    },
+    "datePosted": "2026-10-14T14:01:49+02:00",
+    "employmentType": "FULL_TIME",
+    "directApply": true,
+    "hiringOrganization": {
+     "@type": "Organization",
+     "name": "Teamtailor",
+     "sameAs": "https://career.teamtailor.com",
+     "logo": "https://images.teamtailor-cdn.com/images/s3/teamtailor-production/logotype-v3/image_uploads/c8c3f7c9-5cf9-4ef6-9554-652e97576f47/original.svg"
+    },
+    "jobLocation": [
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "Östgötagatan 16",
+       "addressLocality": "Stockholm",
+       "postalCode": "116 21",
+       "addressCountry": "SE",
+       "addressRegion": "Sweden",
+       "@type": "PostalAddress"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "0ec34a2a-33ef-4ab5-87d5-e60c7132b3d0",
+   "title": "Customer Support Agent - Swedish/English Speaking",
+   "url": "https://career.teamtailor.com/jobs/8431001-customer-support-agent-swedish-english-speaking",
+   "date_published": "2026-09-22T07:14:24+02:00",
+   "_jobposting": {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Customer Support Agent - Swedish/English Speaking",
+    "description": "(description removed from fixture)",
+    "identifier": {
+     "@type": "PropertyValue",
+     "name": "Teamtailor",
+     "value": "8431001"
+    },
+    "datePosted": "2026-09-22T07:14:24+02:00",
+    "employmentType": "FULL_TIME",
+    "directApply": true,
+    "hiringOrganization": {
+     "@type": "Organization",
+     "name": "Teamtailor",
+     "sameAs": "https://career.teamtailor.com",
+     "logo": "https://images.teamtailor-cdn.com/images/s3/teamtailor-production/logotype-v3/image_uploads/c8c3f7c9-5cf9-4ef6-9554-652e97576f47/original.svg"
+    },
+    "baseSalary": {
+     "@type": "MonetaryAmount",
+     "currency": "SEK",
+     "value": {
+      "@type": "QuantitativeValue",
+      "unitText": "MONTH",
+      "value": "28500"
+     }
+    },
+    "jobLocation": [
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "Östgötagatan 16",
+       "addressLocality": "Stockholm",
+       "postalCode": "116 21",
+       "addressCountry": "SE",
+       "addressRegion": "Sweden",
+       "@type": "PostalAddress"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "07682917-d569-443b-b099-955f998f1591",
+   "title": "APAC Customer Support Agent",
+   "url": "https://career.teamtailor.com/jobs/8355188-apac-customer-support-agent",
+   "date_published": "2026-09-09T18:08:56+02:00",
+   "_jobposting": {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "APAC Customer Support Agent",
+    "description": "(description removed from fixture)",
+    "identifier": {
+     "@type": "PropertyValue",
+     "name": "Teamtailor",
+     "value": "8355188"
+    },
+    "datePosted": "2026-09-09T18:08:56+02:00",
+    "employmentType": "FULL_TIME",
+    "directApply": true,
+    "hiringOrganization": {
+     "@type": "Organization",
+     "name": "Teamtailor",
+     "sameAs": "https://career.teamtailor.com",
+     "logo": "https://images.teamtailor-cdn.com/images/s3/teamtailor-production/logotype-v3/image_uploads/c8c3f7c9-5cf9-4ef6-9554-652e97576f47/original.svg"
+    },
+    "baseSalary": {
+     "@type": "MonetaryAmount",
+     "currency": "AUD",
+     "value": {
+      "@type": "QuantitativeValue",
+      "unitText": "MONTH",
+      "minValue": "5100",
+      "maxValue": "6500"
+     }
+    },
+    "jobLocation": [
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "WeWork - Office Space & Coworking",
+       "addressLocality": "Sydney",
+       "postalCode": "2000",
+       "addressCountry": "AU",
+       "addressRegion": "Oceania",
+       "@type": "PostalAddress"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "11ef5728-a67d-4543-8b6c-75b2a7f6cd2d",
+   "title": "Regional Director CSM",
+   "url": "https://career.teamtailor.com/jobs/8297677-regional-director-csm",
+   "date_published": "2026-09-01T12:01:07+02:00",
+   "_jobposting": {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Regional Director CSM",
+    "description": "(description removed from fixture)",
+    "identifier": {
+     "@type": "PropertyValue",
+     "name": "Teamtailor",
+     "value": "8297677"
+    },
+    "datePosted": "2026-09-01T12:01:07+02:00",
+    "employmentType": "FULL_TIME",
+    "directApply": true,
+    "hiringOrganization": {
+     "@type": "Organization",
+     "name": "Teamtailor",
+     "sameAs": "https://career.teamtailor.com",
+     "logo": "https://images.teamtailor-cdn.com/images/s3/teamtailor-production/logotype-v3/image_uploads/c8c3f7c9-5cf9-4ef6-9554-652e97576f47/original.svg"
+    },
+    "jobLocation": [
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "Östgötagatan 16",
+       "addressLocality": "Stockholm",
+       "postalCode": "116 21",
+       "addressCountry": "SE",
+       "addressRegion": "Sweden",
+       "@type": "PostalAddress"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "07f9a166-32f4-45f9-b0dd-8d52e0b31073",
+   "title": "Senior Partnerships Manager - Toronto",
+   "url": "https://career.teamtailor.com/jobs/8280874-senior-partnerships-manager-toronto",
+   "date_published": "2026-08-27T15:51:17+02:00",
+   "_jobposting": {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Senior Partnerships Manager - Toronto",
+    "description": "(description removed from fixture)",
+    "identifier": {
+     "@type": "PropertyValue",
+     "name": "Teamtailor",
+     "value": "8280874"
+    },
+    "datePosted": "2026-08-27T15:51:17+02:00",
+    "employmentType": "FULL_TIME",
+    "directApply": true,
+    "hiringOrganization": {
+     "@type": "Organization",
+     "name": "Teamtailor",
+     "sameAs": "https://career.teamtailor.com",
+     "logo": "https://images.teamtailor-cdn.com/images/s3/teamtailor-production/logotype-v3/image_uploads/c8c3f7c9-5cf9-4ef6-9554-652e97576f47/original.svg"
+    },
+    "jobLocation": [
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "WeWork Office Space & Coworking",
+       "addressLocality": "Toronto",
+       "postalCode": "M5H 4A6",
+       "addressCountry": "CA",
+       "addressRegion": "North America",
+       "@type": "PostalAddress"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "13742a16-75f8-4c64-a3c4-4c4f3d89ce7e",
+   "title": "Director - Data & Analytics",
+   "url": "https://career.teamtailor.com/jobs/8124466-director-data-analytics",
+   "date_published": "2026-07-24T13:34:48+02:00",
+   "_jobposting": {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Director - Data & Analytics",
+    "description": "(description removed from fixture)",
+    "identifier": {
+     "@type": "PropertyValue",
+     "name": "Teamtailor",
+     "value": "8124466"
+    },
+    "datePosted": "2026-07-24T13:34:48+02:00",
+    "employmentType": "FULL_TIME",
+    "directApply": true,
+    "hiringOrganization": {
+     "@type": "Organization",
+     "name": "Teamtailor",
+     "sameAs": "https://career.teamtailor.com",
+     "logo": "https://images.teamtailor-cdn.com/images/s3/teamtailor-production/logotype-v3/image_uploads/c8c3f7c9-5cf9-4ef6-9554-652e97576f47/original.svg"
+    },
+    "jobLocation": [
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "Östgötagatan 16",
+       "addressLocality": "Stockholm",
+       "postalCode": "116 21",
+       "addressCountry": "SE",
+       "addressRegion": "Sweden",
+       "@type": "PostalAddress"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "a79a10f6-9f69-49b0-9f6d-8bed3d6e3a4f",
+   "title": "Account Executive - UK Enterprise",
+   "url": "https://career.teamtailor.com/jobs/8021334-account-executive-uk-enterprise",
+   "date_published": "2026-07-06T08:58:57+02:00",
+   "_jobposting": {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Account Executive - UK Enterprise",
+    "description": "(description removed from fixture)",
+    "identifier": {
+     "@type": "PropertyValue",
+     "name": "Teamtailor",
+     "value": "8021334"
+    },
+    "datePosted": "2026-07-06T08:58:57+02:00",
+    "employmentType": "FULL_TIME",
+    "directApply": true,
+    "hiringOrganization": {
+     "@type": "Organization",
+     "name": "Teamtailor",
+     "sameAs": "https://career.teamtailor.com",
+     "logo": "https://images.teamtailor-cdn.com/images/s3/teamtailor-production/logotype-v3/image_uploads/c8c3f7c9-5cf9-4ef6-9554-652e97576f47/original.svg"
+    },
+    "jobLocation": [
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "16 Laystall Court",
+       "addressLocality": "London",
+       "postalCode": "EC1R 4",
+       "addressCountry": "GB",
+       "addressRegion": "Europe",
+       "@type": "PostalAddress"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "f40addc7-d9ec-4535-bf88-3e12a7c96dbd",
+   "title": "Customer Support Agent - Dutch/English Speaking",
+   "url": "https://career.teamtailor.com/jobs/7951948-customer-support-agent-dutch-english-speaking",
+   "date_published": "2026-06-22T16:45:21+02:00",
+   "_jobposting": {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Customer Support Agent - Dutch/English Speaking",
+    "description": "(description removed from fixture)",
+    "identifier": {
+     "@type": "PropertyValue",
+     "name": "Teamtailor",
+     "value": "7951948"
+    },
+    "datePosted": "2026-06-22T16:45:21+02:00",
+    "employmentType": "FULL_TIME",
+    "directApply": true,
+    "hiringOrganization": {
+     "@type": "Organization",
+     "name": "Teamtailor",
+     "sameAs": "https://career.teamtailor.com",
+     "logo": "https://images.teamtailor-cdn.com/images/s3/teamtailor-production/logotype-v3/image_uploads/c8c3f7c9-5cf9-4ef6-9554-652e97576f47/original.svg"
+    },
+    "baseSalary": {
+     "@type": "MonetaryAmount",
+     "currency": "SEK",
+     "value": {
+      "@type": "QuantitativeValue",
+      "unitText": "MONTH",
+      "value": "28000"
+     }
+    },
+    "jobLocation": [
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "Östgötagatan 16",
+       "addressLocality": "Stockholm",
+       "postalCode": "116 21",
+       "addressCountry": "SE",
+       "addressRegion": "Sweden",
+       "@type": "PostalAddress"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "555a15d2-f0dd-41e0-b548-c471799baf18",
+   "title": "AI Accelerator",
+   "url": "https://career.teamtailor.com/jobs/7748148-ai-accelerator",
+   "date_published": "2026-05-18T11:56:18+02:00",
+   "_jobposting": {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "AI Accelerator",
+    "description": "(description removed from fixture)",
+    "identifier": {
+     "@type": "PropertyValue",
+     "name": "Teamtailor",
+     "value": "7748148"
+    },
+    "datePosted": "2026-05-18T11:56:18+02:00",
+    "employmentType": "FULL_TIME",
+    "directApply": true,
+    "hiringOrganization": {
+     "@type": "Organization",
+     "name": "Teamtailor",
+     "sameAs": "https://career.teamtailor.com",
+     "logo": "https://images.teamtailor-cdn.com/images/s3/teamtailor-production/logotype-v3/image_uploads/c8c3f7c9-5cf9-4ef6-9554-652e97576f47/original.svg"
+    },
+    "jobLocation": [
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "Östgötagatan 16",
+       "addressLocality": "Stockholm",
+       "postalCode": "116 21",
+       "addressCountry": "SE",
+       "addressRegion": "Sweden",
+       "@type": "PostalAddress"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "96b23e80-8b71-47cb-bf70-2e2680b91ce8",
+   "title": "Enterprise Account Executive - DACH (d/f/m)",
+   "url": "https://career.teamtailor.com/jobs/7309094-enterprise-account-executive-dach-d-f-m",
+   "date_published": "2026-03-01T20:50:16+01:00",
+   "_jobposting": {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Enterprise Account Executive - DACH (d/f/m)",
+    "description": "(description removed from fixture)",
+    "identifier": {
+     "@type": "PropertyValue",
+     "name": "Teamtailor",
+     "value": "7309094"
+    },
+    "datePosted": "2026-03-01T20:50:16+01:00",
+    "employmentType": "FULL_TIME",
+    "directApply": true,
+    "hiringOrganization": {
+     "@type": "Organization",
+     "name": "Teamtailor",
+     "sameAs": "https://career.teamtailor.com",
+     "logo": "https://images.teamtailor-cdn.com/images/s3/teamtailor-production/logotype-v3/image_uploads/c8c3f7c9-5cf9-4ef6-9554-652e97576f47/original.svg"
+    },
+    "jobLocation": [
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": null,
+       "addressLocality": "Berlin",
+       "postalCode": null,
+       "addressCountry": "DE",
+       "addressRegion": "Europe",
+       "@type": "PostalAddress"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "77ba41da-455e-4c3e-a6c7-334cf708a14d",
+   "title": "SMB Account Executive - Singapore",
+   "url": "https://career.teamtailor.com/jobs/7069638-smb-account-executive-singapore",
+   "date_published": "2026-01-18T19:56:45+01:00",
+   "_jobposting": {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "SMB Account Executive - Singapore",
+    "description": "(description removed from fixture)",
+    "identifier": {
+     "@type": "PropertyValue",
+     "name": "Teamtailor",
+     "value": "7069638"
+    },
+    "datePosted": "2026-01-18T19:56:45+01:00",
+    "employmentType": "FULL_TIME",
+    "directApply": true,
+    "hiringOrganization": {
+     "@type": "Organization",
+     "name": "Teamtailor",
+     "sameAs": "https://career.teamtailor.com",
+     "logo": "https://images.teamtailor-cdn.com/images/s3/teamtailor-production/logotype-v3/image_uploads/c8c3f7c9-5cf9-4ef6-9554-652e97576f47/original.svg"
+    },
+    "jobLocation": [
+     {
+      "@type": "Place",
+      "address": {
+       "streetAddress": "WeWork - Office Space & Coworking",
+       "addressLocality": "Singapore",
+       "postalCode": "068877",
+       "addressCountry": "SG",
+       "addressRegion": "Asia",
+       "@type": "PostalAddress"
+      }
+     }
+    ]
+   }
+  }
+ ]
+}
